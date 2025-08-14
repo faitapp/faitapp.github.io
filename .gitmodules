@@ -4,3 +4,6 @@
 [submodule "themes/educenter"]
 	path = themes/educenter
 	url = https://github.com/themefisher/educenter-hugo.git
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh.git
