@@ -126,7 +126,7 @@ params:
       title: Email the CEO
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: https://www.linkedin.com/in/dr-tammy-roust/
+      link: in/dr-tammy-roust/
       title: Our CEO's LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
