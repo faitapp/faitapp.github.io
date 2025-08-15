@@ -1,4 +1,0 @@
-baseURL = 'https://fait.app/'
-languageCode = 'en-us'
-title = 'FAIT: Financial Analysis Ingestion Tool'
-theme = 'ananke'
