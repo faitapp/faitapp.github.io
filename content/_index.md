@@ -1,5 +1,5 @@
 ---
-title: "Welcome to FaitApp"
+title: "Welcome to FAIT - Financial Artificial Intelligence Technology"
 layout: "home"
 ---
 
